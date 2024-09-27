@@ -1,2 +1,1 @@
-nginx:latest
-httpd:latest
+nginx:1.26
